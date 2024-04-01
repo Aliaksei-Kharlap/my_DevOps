@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CD_Kubernetes_Jenkins/cicd-kube-docker" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kubernetes/vprofile-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/s/vprofile-project" vcs="Git" />
   </component>
 </project>
